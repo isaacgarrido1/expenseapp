@@ -1,0 +1,17 @@
+.bodyleft {
+margin-top: -300px;
+display: flex;
+margin-left: -300px;
+gap: 100px;
+}
+.bodyright {
+  margin-top: -300px;
+  display: flex;
+  margin-left: -300px;
+  gap: 100px;
+  }
+
+.bodytitle {
+  color: red;
+  font-size: small;
+}
